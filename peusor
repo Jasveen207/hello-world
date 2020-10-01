@@ -1,0 +1,5 @@
+Get input
+while the input you have isn’t the last input
+{
+   Get more input
+}
